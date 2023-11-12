@@ -1,1 +1,1 @@
-# Yet Another Webmention Plugin
+# SMS Webhook Plugin
