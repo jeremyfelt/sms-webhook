@@ -1,0 +1,6 @@
+vendor
+.gitignore
+.phpcs.xml.dist
+composer.json
+composer.lock
+phpstan.neon.dist
